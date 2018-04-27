@@ -1,0 +1,10 @@
+{
+  "simulation": "lrexternalApi.GetRatesSimulation",
+  "simulationId": "getratessimulation",
+  "start": 1517392517196,
+  "description": "",
+  "scenarios": ["Request 5 hotels in one request"],
+  "assertions": [
+
+  ]
+}

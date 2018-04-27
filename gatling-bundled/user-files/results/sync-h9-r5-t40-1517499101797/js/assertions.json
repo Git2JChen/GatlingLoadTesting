@@ -1,0 +1,10 @@
+{
+  "simulation": "lrexternal.ConstRequestsPerSecond",
+  "simulationId": "sync-h9-r5-t40",
+  "start": 1517499101797,
+  "description": "blah",
+  "scenarios": ["LRExternal, being asked for hotel info"],
+  "assertions": [
+
+  ]
+}
